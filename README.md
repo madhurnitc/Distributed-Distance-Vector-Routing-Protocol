@@ -21,3 +21,5 @@ This is a little different from the original algorithm which immediately sends o
 NOTE: We  used UDP Sockets only for our implementation. Further, we used only the select() API for handling multiple socket connections.
 
 We also  need to use select timeout to implement multiple timers. 
+
+Complete project description can be read from [here](https://github.com/madhurnitc/Distributed-Distance-Vector-Routing-Protocol/blob/master/PA3.pdf)
